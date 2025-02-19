@@ -31,7 +31,7 @@ function Home() {
           <div className="flex-shrink-0 flex items-center">
             <img
               className="h-8 w-auto"
-              src="https://ai-public.creatie.ai/gen_page/logo_placeholder.png"
+              src="logo.png"
               alt="LitHub"
             />
           </div>
@@ -90,18 +90,18 @@ function Home() {
                 across all your devices.
               </p>
               <div className="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start animate-fade-in-up delay-700">
-                <div className="rounded-md shadow">
-                  <button className="!rounded-button w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium text-white bg-custom hover:bg-custom/90 md:py-4 md:text-lg md:px-10">
-                    Get Started
-                  </button>
-                </div>
-                <div className="mt-3 sm:mt-0 sm:ml-3">
-                  <button className="!rounded-button w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium text-custom bg-custom/10 hover:bg-custom/20 md:py-4 md:text-lg md:px-10">
-                    Learn More
-                  </button>
-                </div>
+                                <div className="rounded-md shadow bg-black">
+                                    <button className="!rounded-button text-black w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium text-white bg-custom hover:bg-custom/90 md:py-4 md:text-lg md:px-10">
+                                        Get Started
+                                    </button>
+                                </div>
+                                <div className="mt-3 sm:mt-0 sm:ml-3 bg-gray-100 hover:bg-gray-200">
+                                    <button className="!rounded-button w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium text-custom bg-custom/10 hover:bg-custom/20 md:py-4 md:text-lg md:px-10">
+                                        Learn More
+                                    </button>
+                                </div>
+                            </div>
               </div>
-            </div>
           </div>
         </div>
       </div>

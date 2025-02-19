@@ -14,7 +14,7 @@ function Signup() {
       <div className="bg-white shadow-md rounded-lg flex max-w-4xl w-full">
         <div className="w-1/2 p-8">
           <div className="flex justify-center mb-6">
-            <div className="text-4xl font-bold text-purple-600">LOGO</div>
+            <div className="text-4xl font-bold text-purple-600"><img src='logo.png'  className="h-8 w-auto"/></div>
           </div>
           <h2 className="text-2xl font-bold text-center mb-2">Create your account</h2>
           <p className="text-center text-gray-600 mb-6">
