@@ -9,6 +9,7 @@ const Pdf = () => {
   const [pdfs, setPdfs] = useState([
     {
       id: "2",
+      
       name: "Data Science Handbook.pdf",
       size: "4.8 MB",
       pages: 48,
