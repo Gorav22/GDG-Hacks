@@ -1,5 +1,11 @@
 # StudyHub - Your AI-Powered Digital Library (Its a Prototype So it Only has the ui on different routes Only Library feature of loading books is working.)
 
+## Rotes To Visit
+- /signup
+- /chat
+- /pdf
+- /library
+
 ## Project Description
 
 StudyHub is a next-generation digital library that combines a vast collection of books with powerful AI tools to transform how users interact with and learn from their reading material. It provides a seamless platform to read, download, buy, and actively engage with books, offering personalized support and enhancing comprehension.
