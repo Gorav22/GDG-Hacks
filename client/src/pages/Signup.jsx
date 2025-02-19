@@ -95,19 +95,19 @@ function Signup() {
               alt="Illustration of a robot assisting a person with a task"
               className="absolute inset-0 w-full h-full object-cover rounded-r-lg animate-fadeIn"
               src="https://storage.googleapis.com/a1aa/image/m8YRoO20Mprc05jGHMjHDrZq9l2xy8L1xAjcnqbz4JM.jpg"
-              style={{ animationDelay: '6s' }}
+              style={{ animationDelay: '5s' }}
             />
             <img
               alt="Illustration of a robot and a human shaking hands"
               className="absolute inset-0 w-full h-full object-cover rounded-r-lg animate-fadeIn"
               src="https://storage.googleapis.com/a1aa/image/H9u5yCoV81APF2p639rkHWixjXlf6RIvNehOb3HwDrw.jpg"
-              style={{ animationDelay: '8s' }}
+              style={{ animationDelay: '6s' }}
             />
             <img
               alt="Illustration of a robot teaching a group of people"
               className="absolute inset-0 w-full h-full object-cover rounded-r-lg animate-fadeIn"
               src="https://storage.googleapis.com/a1aa/image/suY9w3_D1iv1bZr96BuXFMLyMwPuP6XJdzb0ZId4ErQ.jpg"
-              style={{ animationDelay: '10s' }}
+              style={{ animationDelay: '8s' }}
             />
           </div>
         </div>
