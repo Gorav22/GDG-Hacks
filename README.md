@@ -1,6 +1,6 @@
 # StudyHub - Your AI-Powered Digital Library (Its a Prototype So it Only has the ui on different routes Only Library feature of loading books is working.)
 
-## Rotes To Visit
+## Routes To Visit
 - /signup
 - /chat
 - /pdf
